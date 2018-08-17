@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: idel
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: bone/rh
+    localPosition: {x: -0.62911296, y: -0.5641148, z: -0.19042969}
+    localRotation: {x: 0, y: 0, z: -0.3094735, w: 0.9509081}
+    localScale: {x: 0.41478056, y: 0.4147805, z: 0.4147805}
+  - path: bone/lh
+    localPosition: {x: -0.007118225, y: -0.4409356, z: 0}
+    localRotation: {x: -0, y: -0, z: -0.32523823, w: 0.94563216}
+    localScale: {x: 0.4147806, y: 0.41478056, z: 0.4147805}
+  - path: bone/rleg
+    localPosition: {x: -0.33437586, y: -1.0016155, z: -0.19042969}
+    localRotation: {x: 0, y: 0, z: -0.7913623, w: 0.6113475}
+    localScale: {x: 0.32608512, y: 0.32608515, z: 0.3260849}
+  - path: bone/lleg
+    localPosition: {x: -0.2093885, y: -1.0131118, z: -0.19042969}
+    localRotation: {x: 0, y: 0, z: -0.61748224, w: 0.78658485}
+    localScale: {x: 0.32608485, y: 0.3260849, z: 0.3260849}
+  - path: bone/hair
+    localPosition: {x: -1.9393826, y: 1.2013812, z: -0.19042969}
+    localRotation: {x: 0, y: 0, z: -0.73454756, w: 0.6785573}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: bone/hair/hair1
+    localPosition: {x: 1.3869132, y: 0.00000011920929, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.18840979, w: 0.98209053}
+    localScale: {x: 0.4893722, y: 0.48937228, z: 0.48937228}
+  - path: bone/hair/hair1/hair2
+    localPosition: {x: 1.1325489, y: -0.00000001522477, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.2123823, w: 0.9771867}
+    localScale: {x: 1, y: 1, z: 1}
