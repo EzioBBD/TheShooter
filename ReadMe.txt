@@ -1,4 +1,5 @@
-项目启动路径：\Assets\_MyGame\_Scenes\Main.unity
+项目启动路径：\Assets\_MyGame\_Scenes\Main.unity（出于兼容性考虑，请使用Unity2018打开工程）
+可执行文件路径：\Built\Built.exe（由于历史遗留bug，启动配置中Graphics quality请选择Good以上级别）
 
 游戏规则和玩法：
 1.玩家两人各持键鼠和手柄对战，击败对方的玩家即获胜
@@ -23,4 +24,3 @@
 2.寒冰弹：强化子弹使其附加减速效果（可叠加）
 3.手雷：投掷一段时间后自动爆炸
 4.遥控炸弹：投掷后不会爆炸，可一次性全部触发
-
